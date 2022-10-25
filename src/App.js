@@ -16,7 +16,7 @@ function App() {
           <Route path="/hobbies" element={<Hobbies />} />
           <Route path="/contact" element={<Contact />} />
         </Route>
-        <Route path="*" element={<NotFound />} />
+        <Route path="*" element={<Header />} />
       </Routes>
     </div>
   );
