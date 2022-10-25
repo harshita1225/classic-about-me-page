@@ -2,6 +2,8 @@
 
 Created a classic "about me" homepage in React!
 
+- Live Site URL: [https://harshita1225.github.io/classic-about-me-page/](https://harshita1225.github.io/classic-about-me-page/)
+
 ## Tasks
 
 1. Router/Switch/Links for all three pages : about,hobbies and contact
@@ -15,9 +17,9 @@ Created a classic "about me" homepage in React!
   ![Desktop Layout](./img/Screenshot%20from%202022-10-24%2023-05-45.png)
 
 - Hobbies
-  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-26-10%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-24%2023-07-21.png)
 - Contact form
-  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-26-27%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-24%2023-07-44.png)
 
 ### Built with
 
