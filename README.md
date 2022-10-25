@@ -1,15 +1,36 @@
 # About Me - Project in React
 
-Create a classic "about me" homepage in React!
+Created a classic "about me" homepage in React!
 
 ## Tasks
 
-This exercise is split into three separate tasks, where task 2 and 3 are bonus tasks
+1. Router/Switch/Links for all three pages : about,hobbies and contact
+2. onChange/onClick-events
+3. onClick, conditional styling
+4. conditional rendering
 
-1. TASK 1) Router/Switch/Links for Task 1
-2. BONUS TASK 2) onChange/onClick-events, conditional rendering for Task 2 (Advanced)
-3. BONUS TASK 3) onClick, conditional rtyling for Task 3 (Advanced)
+#### Desktop Version
 
-For the task details, please take a look at **task.pdf**.
+- About me
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-24%2023-05-45.png)
 
-Good luck, have fun :^)
+- Hobbies
+  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-26-10%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+- Contact form
+  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-26-27%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS (W3 School)
+- Flex box
+  -React
+- Responsive design
+- Form
+- React
+- Desktop layout
+- Custom Fonts
+
+## Author
+
+- Website - [Harshita Joshi-Github](https://github.com/harshita1225)
