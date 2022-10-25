@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harshita1225/classic-about-me-page/static/css/main.90a70595.css",
+    "main.js": "/harshita1225/classic-about-me-page/static/js/main.b154435c.js",
+    "index.html": "/harshita1225/classic-about-me-page/index.html",
+    "main.90a70595.css.map": "/harshita1225/classic-about-me-page/static/css/main.90a70595.css.map",
+    "main.b154435c.js.map": "/harshita1225/classic-about-me-page/static/js/main.b154435c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a70595.css",
+    "static/js/main.b154435c.js"
+  ]
+}
