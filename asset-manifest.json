@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/harshita1225/classic-about-me-page/static/css/main.90a70595.css",
-    "main.js": "/harshita1225/classic-about-me-page/static/js/main.b154435c.js",
-    "index.html": "/harshita1225/classic-about-me-page/index.html",
-    "main.90a70595.css.map": "/harshita1225/classic-about-me-page/static/css/main.90a70595.css.map",
-    "main.b154435c.js.map": "/harshita1225/classic-about-me-page/static/js/main.b154435c.js.map"
+    "main.css": "/classic-about-me-page/static/css/main.90a70595.css",
+    "main.js": "/classic-about-me-page/static/js/main.b154435c.js",
+    "index.html": "/classic-about-me-page/index.html",
+    "main.90a70595.css.map": "/classic-about-me-page/static/css/main.90a70595.css.map",
+    "main.b154435c.js.map": "/classic-about-me-page/static/js/main.b154435c.js.map"
   },
   "entrypoints": [
     "static/css/main.90a70595.css",
